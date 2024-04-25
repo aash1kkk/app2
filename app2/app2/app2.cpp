@@ -207,6 +207,6 @@ int main()
 		}
 
 	}
-	cout<<"committed";
+	
 	return 0;
 }
